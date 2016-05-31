@@ -27,5 +27,12 @@ Harris corner detection is primary algorithm to detect corners of the image in o
 Prerequisites:<br>
 &emsp;-> MATLAB(atleast R2013a)
 </h6>
+<h5>
+4. Hybrid.m</h5>
+<h6>
+Hybrid image is combination of two images where certain features of each image is been considered in the final output image.<br>
+Prerequisites:<br>
+&emsp;-> MATLAB(atleast R2013a)
+</h6> 
 </body>
 </html>
