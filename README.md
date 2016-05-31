@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2><u> Computer Vision Implementations. </u></h2>
+<h2> Computer Vision Implementations.</h2>
 <h4>This repository include programs solving certain problems in the field of Computer Vision. I have executed these algorithms in MATLAB(version R2013a).</h4> Following is list of programs with brief explanation and prerequisites for executing them.
 <h5>
 1. Dilate.m </h5>
