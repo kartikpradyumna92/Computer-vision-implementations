@@ -9,6 +9,7 @@
 2. Feature_HoG.m </h5>
 <h6>This program file has three code sections in it.<br>- In the first section, I imported the input image and obtained the harris corners of the image and provided a range of 100 corners to detect from the image. The range might vary based on the users requiremenet. This section can be compiled in MATLAB(atleast R2013a).<br>- The second section implements most commonly used feature extraction and detecting the objects based on it. I have used inbuilt function of MATLAB "extractHOGFeatures" for obtaining the same. This can be compiled in MATLAB(atleast R2013b)<br>- The third section is implementation of SIFT using vlfeat in MATLAB. This can be compiled in MATLAB upon installing vlfeat over the computer. Following is the link which provided downloadble file and instructions for set up: http://www.vlfeat.org/. <br> Upon installing, run this on MATLAB(atleast R2013a) </h6>
 <H5>
-3. 
+3. Harris_detector.m </h5>
+
 </body>
 </html>
