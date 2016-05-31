@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2><u> Computer Vision</u></h2>
-<h4>I have executed all the programs in MATLAB R2013a. This included Image processing toolbox in it. <br>Following is the list of the programs with brief explanation about it.</h4>
+<h2><u> Computer Vision Implementations. </u></h2>
+<h4>This repository include programs solving certain problems in the field of Computer Vision. I have executed these algorithms in MATLAB(version R2013a).</h4> Following is list of programs with brief explanation and prerequisites for executing them.
 <h5>
 1. Dilate.m </h5>
 <h6> Dilate is process of enhancing the features of the image in order to analyze it. This program executed dilation over the image.<br>
